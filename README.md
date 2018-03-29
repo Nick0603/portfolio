@@ -53,10 +53,10 @@
     - 免費線上服務
         - 資料庫：google sheets
         - 後台：google apps script:
-![](https://i.imgur.com/SKtdl0L.png)
+![](https://i.imgur.com/D2i1qan.png =30%x)![](https://i.imgur.com/SKtdl0L.png =50%x)
 ------------
 ## 臺科大工業4.0範例網站
-![](https://camo.githubusercontent.com/949fd2e08ec030fab39a44131d52f943a18c78ae/687474703a2f2f692e7069636173696f6e2e636f6d2f70696338352f36643863323664363539346332623565316439303830626438653237643166392e676966)
+![](https://i.imgur.com/2BGU8EY.jpg =25%x)![](https://camo.githubusercontent.com/949fd2e08ec030fab39a44131d52f943a18c78ae/687474703a2f2f692e7069636173696f6e2e636f6d2f70696338352f36643863323664363539346332623565316439303830626438653237643166392e676966 =50%x)
 - 開發：
     -  網頁前端：HTML+CSS+JS(jQuery)
     -  網頁後端：laravel + MySQL
@@ -86,7 +86,7 @@
 -------
 ## smartStrap 智慧錶帶
 ![](https://i.imgur.com/iwgOli1.png)
-![](http://i.imgur.com/2ArcOnJ.jpg)
+![](https://i.imgur.com/rb4Wthn.gif =35%x)![](http://i.imgur.com/2ArcOnJ.jpg =65%x)
 - 功能：
     - FB登入
     - 來電辨識分級
@@ -102,7 +102,7 @@
     - 訊號分析：[連結](https://nick0603.github.io/audio_analysis/demo)
 ---- 
 ## 機械人投籃競賽（遙控）
-![](https://i.imgur.com/D6UWSZy.jpg)
+![](https://i.imgur.com/2BGU8EY.jpg =30%x)![](https://i.imgur.com/D6UWSZy.jpg =40%x)
 - 功能
     - 藍芽遙控
     - 移動
@@ -122,7 +122,11 @@
 
 
 ---
+![](https://i.imgur.com/veNpkjj.jpg)
+- 遊玩連結：https://nick0603.github.io/
+- 更多內容：https://scratch.mit.edu/users/b10303008/
 
+---
 ## 自走機器人競賽（跨國際同學合作)
 ![](https://github.com/Nick0603/Robot_capstone/blob/master/images/robot.jpg?raw=true)
 ![](https://github.com/Nick0603/Robot_capstone/blob/master/images/competition.jpg?raw=true)
@@ -153,6 +157,6 @@
 - ![](https://i.imgur.com/QmXuGzB.png)
 
 ## 刮刮樂
-![](https://i.imgur.com/UsM0u9x.png)
+![](https://i.imgur.com/2BGU8EY.jpg =30%x)![](https://i.imgur.com/UsM0u9x.png =40%x)
 - 技術：HTML+CSS+JS (JQuery)
 - 測試連結：https://nick0603.github.io/SimpleProject/scratch-off/
